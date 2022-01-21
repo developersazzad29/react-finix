@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/react-finix/static/css/main.073c9b0a.css",
+    "main.js": "/react-finix/static/js/main.13eedfed.js",
+    "static/js/787.e7bf7b7a.chunk.js": "/react-finix/static/js/787.e7bf7b7a.chunk.js",
+    "index.html": "/react-finix/index.html",
+    "main.073c9b0a.css.map": "/react-finix/static/css/main.073c9b0a.css.map",
+    "main.13eedfed.js.map": "/react-finix/static/js/main.13eedfed.js.map",
+    "787.e7bf7b7a.chunk.js.map": "/react-finix/static/js/787.e7bf7b7a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.13eedfed.js"
+  ]
+}
